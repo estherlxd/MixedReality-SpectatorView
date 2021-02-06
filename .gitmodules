@@ -12,5 +12,5 @@
 	url = https://github.com/Azure/azure-spatial-anchors-samples
 	ignore = dirty
 [submodule "external\\ARKit-Unity-Plugin"]
-	path = external\\ARKit-Unity-Plugin
+	path = external/ARKit-Unity-Plugin
 	url = https://github.com/estherlxd/unity-arkit-plugin.git
